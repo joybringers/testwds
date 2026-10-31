@@ -1,0 +1,73 @@
+
+/* Style the whole webpage */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #b1b3b8;
+  color: hsl(216, 82%, 18%);
+  text-align: center;
+}
+
+/* Main heading */
+h1 {
+  background-color: #082653;
+  color: rgb(177, 168, 168);
+  padding: 25px;
+  margin: 0;
+}
+
+h2 {
+  background-color: #082653;
+  color: white;
+  padding: 25px;
+  margin: 0;
+}
+
+/* Navigation menu */
+.menu {
+  background-color: #cee6b2;
+  padding: 15px;
+}
+
+/* Navigation links */
+.menu a {
+  color: #082653;
+  text-decoration: none;
+  margin: 15px;
+  font-weight: bold;
+}
+
+/* Section headings */
+h2 {
+  color: #eb2588;
+  margin-top: 30px;
+}
+
+/* Paragraphs */
+p {
+  font-size: 24px;
+  line-height: 1.6;
+}
+
+/* Images */
+img {
+  max-width: 60%;
+  width: 400px;
+  height: auto;
+  border-radius: 12px;
+  margin: 15px;
+}
+
+/* Hobby list */
+ul {
+  list-style-position: inside;
+  padding: 0;
+}
+
+/* Bottom message */
+.bottom {
+  background-color: #160853;
+  color: white;
+  padding: 20px;
+  margin: 30px 0 0;
+}
